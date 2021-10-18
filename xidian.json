@@ -4,5 +4,8 @@
     "abbr": "Xidian",
     "name": "西电开源软件镜像站",
     "homepage": "https://linux.xidian.edu.cn",
-    "group": "https://t.me/xdosc"
+    "issue": "https://linux.xidian.edu.cn/git/xdlinux/issues",
+    "request": "https://linux.xidian.edu.cn/git/xdlinux/issues",
+    "group": "https://t.me/xdosc",
+    "note": "仅对校内提供服务"
 }
