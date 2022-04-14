@@ -1,6 +1,8 @@
 {
     "url": "https://mirrors.shanghaitech.edu.cn",
-    "abbr": "GeekPie",
+    "logo": "https://mirrors.shanghaitech.edu.cn/icon.svg",
+    "logo_darkmode": "https://mirrors.shanghaitech.edu.cn/icon_dark.svg",
+    "abbr": "ShanghaiTech GeekPie",
     "name": "上海科技大学 GeekPie 开源镜像站",
     "email": "pie at geekpie dot club",
     "group": "https://t.me/GeekPie_mirrors; https://jq.qq.com/?k=UjYsRHCR"
