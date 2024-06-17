@@ -2,7 +2,6 @@
     "name": "Mirrors@NWAFU",
     "url": "https://mirrors.nwafu.edu.cn",
     "abbr": "NWAFU",
-    "big": "/speedtest/1GB.bin",
     "logo": "https://mirrors.nwafu.edu.cn/help/assets/images/favicon.png",
     "note": "Rate limit policy: see https://mirrors.nwafu.edu.cn/help/limits/"
 }
